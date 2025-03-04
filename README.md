@@ -35,7 +35,7 @@ Siga os passos abaixo para instalar:
 
 1. Baixe a versão mais recente do Kindle Discord Rich Presence clicando [AQUI](https://github.com/GxbrielLeno/kindle-discord-rich-presence/raw/refs/heads/main/kindle-discord-setup-1.0.2.exe).
 2. Execute o instalador
-4. O programa vai ser instalado em `C:\Users\Usuario\AppData\Local\Programs\kindle-discord`
+4. O programa vai ser instalado em `C:\Users\<Nome_Usuario>\AppData\Local\Programs\kindle-discord`
 5. Após isso abra o Kindle no Computador e o Discord
 6. E pronto, agora só aproveitar e ler seus livros 😊!
 
